@@ -27,3 +27,4 @@ Awesome list about tech sites/services restricted for Cuba
 * [TeamViewer](https://www.teamviewer.com/): Cross-platform remote desktop platform.
 * [Unity](https://unity.com): Cross-platform game engine developed by Unity Technologies.
 * [Zoom](https://www.zoom.us/): Free video conference platform.
+* [DNSSTUFF](https://www.dnsstuff.com): DNS tools, Network tools, Email tools, DNS reporting and IP information gathering.
